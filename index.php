@@ -8,7 +8,7 @@ if (isset($_GET["error"])) {
 
 <head>
   <meta charset="utf-8">
-  <title>Charity app</title>
+  <title>Aplicacion de caridad</title>
   <link rel="icon" href="assets/details_img.png">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css">
   <link rel="stylesheet" href="assets/cs/index.css">
