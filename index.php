@@ -31,11 +31,9 @@ if (isset($_GET["error"])) {
         <div class="row innerrow">
           <div class="col-12 white">
             <h1 class="donate-now">Bienvenido</h1>
-            Apoya las causas que te importan. Con organizaciones benéficas en nuestra base de datos, 
-            usted dona a tantas organizaciones o recaudadores de fondos como desee, todo en una canasta de donaciones. 
+            Apoya las causas que te importan. Con organizaciones benéficas en nuestra base de datos, usted dona a tantas organizaciones o recaudadores de fondos como desee, todo en una canasta de donaciones. 
             Nosotros nos encargamos del resto. Vea y descargue su declaración de donaciones consolidada a pedido. 
             Tenga la seguridad de que su dinero y su información personal están seguros. Las donaciones se procesan a través de nuestro portal seguro con la mejor tecnología de cifrado de transacciones de su clase.
-
             Ahora no hay necesidad de preocuparse por los problemas de confianza, usamos Ethereum blockchain para almacenar cada transacción. Las donaciones que haces son totalmente rastreables hasta el beneficiario.
             <br><br>
             <a href="listings.php"><button type="button" name="button" class="dn-btn">Dona Ahora</button></a>
